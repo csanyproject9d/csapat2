@@ -5,3 +5,9 @@ body{
     width: 70px;
     height: 70px;
 }
+#nav{
+    background-color:	#50525B;
+}
+#navos{
+    color: white;
+}
