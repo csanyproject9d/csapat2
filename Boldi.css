@@ -5,11 +5,11 @@ p{
     font-weight: bolder;
 }
 #kép{
-    height: fit-content;
-    width: fit-content;
+    width: 400px;
+    height: 305px;
 }
 
 #kicsi{
     font-size: smaller;
-    padding-left: 90px;
+    padding-left: 140px;
 }
