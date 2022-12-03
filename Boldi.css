@@ -3,8 +3,12 @@
 }
 p{
     font-weight: bolder;
-    
 }
+#kép{
+    height: fit-content;
+    width: fit-content;
+}
+
 #kicsi{
     font-size: smaller;
     padding-left: 90px;
