@@ -6,15 +6,14 @@ p{
     font-size: medium;
 }
 #kép{
-    height: auto;
-    width: auto;
+    width: 400px;
+    height:400px; 
+    
     
 }
 
-#kicsi{
-    font-size: smaller;
-    ;
-}
+
+
 #kép2{
     width: 500px;
     height: 500px;
