@@ -1,11 +1,9 @@
-#cím{
-    color: black;
-}
+
 p{
     font-weight: bolder;
     font-size: medium;
 }
 #kép2{
-    width: 500px;
-    height: 500px;
-}
+    height: fit-content;
+    width: fit-content;
+} 
