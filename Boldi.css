@@ -3,6 +3,7 @@
 }
 p{
     font-weight: bolder;
+    font-size: medium;
 }
 #kép{
     height: auto;
@@ -12,7 +13,7 @@ p{
 
 #kicsi{
     font-size: smaller;
-    padding-left: 140px;
+    ;
 }
 #kép2{
     width: 500px;
