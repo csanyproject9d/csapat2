@@ -1,13 +1,18 @@
-body{
-    background-color: #B7C0C1;
+body {
+    background-color: #2767F6;
 }
-#logo{
+#logo {
     width: 100px;
     height: 100px;
 }
-#nav{
-    background-color:	#50525B;
+#div{
+   background-color:  #2767F6;
+   color: white;
 }
-#navos{
-    color: white;
+#nav {
+    background-color: white;
+}
+#navos {
+    color: black;
+    background-color: white;
 }
