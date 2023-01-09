@@ -15,3 +15,22 @@ h3{
 p{
     color: white;
 }
+/* unvisisted link  */
+a:link{
+    color: white;
+}
+/* visited link */
+a:visited {
+    color: brown;
+  }
+/* mouse over link */
+a:hover {
+    color: hotpink;
+  }
+ /* selected link */
+a:active {
+    color: black;
+  } 
+a{
+ font-size: medium;
+  }
