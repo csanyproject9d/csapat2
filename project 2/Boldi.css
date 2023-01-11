@@ -13,7 +13,7 @@ h3{
     color: white;
 }
 p{
-    color: white;
+    color: white
 }
 /* unvisisted link  */
 a:link{
@@ -31,6 +31,6 @@ a:hover {
 a:active {
     color: black;
   } 
-a{
- font-size: medium;
+#igazítás{
+text-align:center;
   }
