@@ -1,0 +1,23 @@
+body {
+    background-color: #2767F6;
+}
+#logo {
+    width: 100px;
+    height: 100px;
+}
+#div{
+   background-color:  #2767F6;
+   color: white;
+}
+#nav {
+    background-color: white;
+}
+#navos {
+    color: black;
+    background-color: white;
+    margin-top: 20px;
+    font-size: 35px;
+}
+a{
+    color:blueviolet;
+}
