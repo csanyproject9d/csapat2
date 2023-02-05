@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+h5{
+    display: inline;
+}
+#első{
+    padding: 500px;
+    margin-top: 200px;
+}
+a{
+    margin-top: 20px;
+}
+
+  
+  
