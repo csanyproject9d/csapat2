@@ -1,5 +1,5 @@
 body{
-    background-image: url(../kep/ifamegyahegyen.jpg);
+    background-color: grey;
 }
 #pedro{
     height: 100px;
@@ -13,4 +13,7 @@ p{
 }
 h2{
     color: white;
+}
+#hivszin{
+    color: whitesmoke;
 }

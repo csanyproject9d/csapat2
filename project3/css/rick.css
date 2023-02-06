@@ -1,5 +1,5 @@
 body{
-    background-image: url(../kep/Rick-Astley.jpg);
+    background-color: lightslategray;
 }
 #első{
     padding: 500px;
@@ -10,4 +10,7 @@ p{
 }
 h2{
     color: white;
+}
+h3{
+    color:whitesmoke;
 }
