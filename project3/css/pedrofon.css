@@ -1,5 +1,5 @@
 body{
-    background-image: url(kep/ifamegyahegyen.jpg);
+    background-image: url(../kep/ifamegyahegyen.jpg);
 }
 #pedro{
     height: 100px;
@@ -7,4 +7,10 @@ body{
 #első{
     padding: 500px;
     margin-top: 200px;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
 }

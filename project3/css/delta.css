@@ -1,7 +1,13 @@
 body{
-    background-image: url();
+    background-image: url(../kep/delta.jpg);
 }
 #első{
     padding: 500px;
     margin-top: 200px;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
 }
