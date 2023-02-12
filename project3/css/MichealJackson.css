@@ -4,3 +4,9 @@ h2{
 #bold{
     font-weight:bold;
 }
+.belyebb{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: chocolate;
+    font-size: xx-large;
+}
